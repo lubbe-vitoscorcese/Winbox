@@ -208,4 +208,4 @@ WinBox is available as a complete free version, providing all features and updat
 Take control of your MikroTik routers today with WinBox! **Download now and experience seamless network management!**
 
 ---
-**Last updated:** 2026-09-16 23:21:59 UTC
+**Last updated:** 2026-09-17 02:15:03 UTC
